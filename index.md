@@ -1,6 +1,6 @@
 # Sweet Indulgence
 
-My first website using Markdown and GitHub Pages.
+A collection of deliciousness!
 
 ## A slice of heaven!
 
