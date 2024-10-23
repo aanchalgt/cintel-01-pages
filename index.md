@@ -1,23 +1,13 @@
-# My Website Title 
+# Sweet Indulgence
 
 My first website using Markdown and GitHub Pages.
 
-## Links (Two hashes is a second level heading)
+## A slice of heaven!
 
-Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
+ [My favorite cake](https://livforcake.com/mocha-chocolate-cake/)
 
-## Images
+## Made by me:
 
-Images look like links except with an exclamation directly in front
+![My Shiny Image](oct2020(2).jpg)
 
-![My Shiny Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
 
-## Reminders
-
-Use a dash space for unordered lists
-
-- Spaces matter
-
-- Spelling matters
-
-- Capitalization matters
